@@ -1,0 +1,26 @@
+:root {
+  --bg: #f5efe6;
+  --bg-elevated: rgba(255, 250, 244, 0.78);
+  --surface: rgba(255, 252, 247, 0.82);
+  --surface-strong: #fcf7f0;
+  --surface-accent: #efe5d8;
+  --text: #192229;
+  --muted: #56616a;
+  --line: rgba(25, 34, 41, 0.1);
+  --line-strong: rgba(25, 34, 41, 0.18);
+  --forest: #203336;
+  --forest-soft: #355155;
+  --bronze: #896041;
+  --gold: #c5a16d;
+  --danger: #9a4a44;
+  --success: #2f6256;
+  --shadow-soft: 0 18px 48px rgba(32, 40, 48, 0.08);
+  --shadow-strong: 0 30px 90px rgba(29, 37, 46, 0.12);
+  --radius-xl: 32px;
+  --radius-lg: 24px;
+  --radius-md: 18px;
+  --radius-sm: 12px;
+  --container: 1200px;
+  --font-display: "Baskerville", "Iowan Old Style", "Palatino Linotype", "Book Antiqua", serif;
+  --font-body: "Avenir Next", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+}
